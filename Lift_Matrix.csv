@@ -1,0 +1,11 @@
+,cadillac,volkswagen,seat,acura,subaru,toyota,bmw,infiniti,chevrolet,audi
+cadillac,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+volkswagen,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+seat,,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+acura,,,,,0.0,0.0,0.0,0.0,0.0,0.0
+subaru,,,,,,0.0,0.0,0.0,0.0,0.0
+toyota,,,,,,,0.0,0.0,0.0,0.0
+bmw,,,,,,,,0.0,0.0,0.0
+infiniti,,,,,,,,,0.0,0.0
+chevrolet,,,,,,,,,,0.0
+audi,,,,,,,,,,
